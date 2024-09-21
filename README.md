@@ -17,8 +17,6 @@
 
 # Experiments
 
-Sure! Here’s a list of various emojis formatted in Markdown:
-
 ### Emojis List
 
 :stuck_out_tongue_winking_eye: :sunglasses: :expressionless:
