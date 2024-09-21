@@ -17,8 +17,6 @@
 
 # Experiments
 
-### Emojis List
-
 :stuck_out_tongue_winking_eye: :sunglasses: :expressionless:
 
 :vulcan_salute: :crossed_swords: :dragon_face:
